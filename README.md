@@ -28,7 +28,7 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 
 
-## MN Bootstrap
+## [MN Bootstrap](https://github.com/dashevo/mn-bootstrap)
 
 This tutorial assumes you are starting with a clean `mn-bootstrap` and have no existing configurations. For advanced configuration options see: https://github.com/dashevo/mn-bootstrap#install
 
