@@ -35,11 +35,12 @@ This tutorial assumes you are starting with a clean `mn-bootstrap` and have no e
 To reset your existing `mn-bootstrap` or if you encounter an error run:
 
 ```bash
+$ mn config:default local
 $ mn reset
 $ mn config:reset
 ```
 
-###Setup
+### Setup
 
 ```bash
 $ git clone -b master https://github.com/dashevo/mn-bootstrap.git
